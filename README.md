@@ -1,2 +1,3 @@
 # pussiwagonn blog
-nothing here
+[nothing here
+](https://pussiwagonn.github.io/)
